@@ -44,8 +44,9 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abdelkadersebihi&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkadersebihi&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdelkadersebihi&theme=tokyonight&hide_border=true)](https://github.com/abdelkadersebihi)
+
+![Contribution Graph](https://ghchart.rshah.org/2ea44f/abdelkadersebihi)
 
 </div>
 
