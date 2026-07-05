@@ -7,7 +7,7 @@
 *Building software that helps Algerian businesses digitize their daily operations*
 
 [![Website](https://img.shields.io/badge/Contact-dzairio.com-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dzairio.com/contact)
-[![Email](https://img.shields.io/badge/Email-akadersbh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akadersbh@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact%40dzairio.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dzairio.com)
 [![CV](https://img.shields.io/badge/📄_My_CV-View-blue?style=for-the-badge)](https://github.com/abdelkadersebihi/cv)
 
 </div>
