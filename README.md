@@ -20,7 +20,7 @@
 - 🏢 **Founder & CEO of Dzairio** (2024–Present) — office tools for Algerian businesses, associations & institutions
 - 📱 **CTO at EFRILI APP (Home services | Delivery app in Algeria +50k Downloads)**
 - 🎓 Master's in **Data Engineering & Web Technologies** — graduated with honors
-- 🤝 Volunteer at the **Algerian Red Crescent** & former **GDG Setif** instructor
+- 🤝 Volunteer (Vice president) at the **Algerian Red Crescent** & former **GDG Setif Flutter** instructor
 - 🗣️ Arabic · English · French
        
 ## 🛠️ Tech Stack
