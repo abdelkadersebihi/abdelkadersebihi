@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abdelkadersebihi/abdelkadersebihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Abdelkader SEBIHI
 
-Here are some ideas to get you started:
+### Flutter Developer · Founder & CEO of [Dzairio](https://dzairio.com) 🇩🇿
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building software that helps Algerian businesses digitize their daily operations*
+
+[![Website](https://img.shields.io/badge/Contact-dzairio.com-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dzairio.com/contact)
+[![Email](https://img.shields.io/badge/Email-akadersbh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akadersbh@gmail.com)
+[![CV](https://img.shields.io/badge/📄_My_CV-View-blue?style=for-the-badge)](https://github.com/abdelkadersebihi/cv)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💙 **Flutter developer with 7+ years of experience** — apps with **575,000+ combined downloads**
+- 🏢 **Founder & CEO of Dzairio** (2024–Present) — office tools for Algerian businesses, associations & institutions
+- 🎓 Master's in **Data Engineering & Web Technologies** — graduated with honors
+- 🤝 Volunteer at the **Algerian Red Crescent** & former **GDG Setif** instructor
+- 🗣️ Arabic · English · French
+       
+## 🛠️ Tech Stack
+       
+<div align="center">
+  
+  [![Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,js,ts,nodejs,react,graphql,mysql,python,figma,git)](https://dzairio.com)
+
+</div>
+
+## 📱 What I've Built
+
+| Project | Role | Highlights |
+|---|---|---|
+| **[Dzairio](https://dzairio.com)** | Founder & CEO | HRDZ (HR & payroll, CNAS/IRG compliant) · DZDOC (document management) · CheckDZ |
+| **Dzair Education** | Founder | BAC Subjects app — **450,000+ downloads** · BEM Subjects — **80,000+** |
+| **Moonbox** | Founder & CEO | EFRILI, SEHATI, TANDIF & Urbagest |
+| **Vessel Inc.** 🇨🇦 | Lead Developer | Logistics app (Android/iOS) for a Toronto-based startup |
+| **Pool Party Games** | Founder | Guess the Logo — **20,000+ downloads** |
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=abdelkadersebihi&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkadersebihi&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+💼 **Open to opportunities & collaborations** — reach me at [dzairio.com/contact](https://dzairio.com/contact)
+
+</div>
