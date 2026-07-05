@@ -18,6 +18,7 @@
 
 - 💙 **Lead developer with 9+ years of experience** — apps with **720k+ combined downloads**
 - 🏢 **Founder & CEO of Dzairio** (2024–Present) — office tools for Algerian businesses, associations & institutions
+- 📲 **CTO at EFRILI APP (Home services | Delivery app in Algeria +50k Downloads)**
 - 🎓 Master's in **Data Engineering & Web Technologies** — graduated with honors
 - 🤝 Volunteer at the **Algerian Red Crescent** & former **GDG Setif** instructor
 - 🗣️ Arabic · English · French
