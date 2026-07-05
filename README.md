@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 💙 **Lead developer with 9+ years of experience** — apps with **575,000+ combined downloads**
+- 💙 **Lead developer with 9+ years of experience** — apps with **702,000+ combined downloads**
 - 🏢 **Founder & CEO of Dzairio** (2024–Present) — office tools for Algerian businesses, associations & institutions
 - 🎓 Master's in **Data Engineering & Web Technologies** — graduated with honors
 - 🤝 Volunteer at the **Algerian Red Crescent** & former **GDG Setif** instructor
