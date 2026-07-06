@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Abdelkader SEBIHI
 
-### Flutter Developer · Founder & CEO of [Dzairio](https://dzairio.com) 🇩🇿
+### Software Developer · Founder & CEO of [Dzairio](https://dzairio.com) 🇩🇿
 
 *Building software that helps Algerian businesses digitize their daily operations*
 
